@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: sh vcf_consensus_loop.sh <path to input files>
+#Usage: sh vcf_consensus_loop.sh <path to input files>
+#lmc297@cornell.edu
 
 cd $1
 
