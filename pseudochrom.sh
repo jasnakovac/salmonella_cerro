@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: sh pseudochrom.sh <path to input files>
+#Usage: sh pseudochrom.sh <path to input files>
+#lmc297@cornell.edu
 
 cd $1
 mkdir original_contigs
