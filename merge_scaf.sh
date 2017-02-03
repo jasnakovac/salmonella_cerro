@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: sh merge_scaf.sh <path to input files> <output directory> <file suffix = fasta> <file name>
+#Usage: sh merge_scaf.sh <path to input files> <output directory> <file suffix = fasta> <file name>
+#lmc297@cornell.edu
 
 cd $1
 mkdir merged;
