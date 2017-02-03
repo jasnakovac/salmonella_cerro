@@ -1,5 +1,6 @@
 #PCA analysis
 #Input is a .csv numeric genotype file (gene presence/absence)
+#jk2739
 
 library(ggplot2)
 library(cluster)
