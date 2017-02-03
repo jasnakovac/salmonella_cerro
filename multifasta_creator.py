@@ -1,5 +1,6 @@
 #!/usr/bin/python
-# Usage: python multifasta_creator.py <path to input files>
+#Usage: python multifasta_creator.py <path to input files>
+#lmc297@cornell.edu
 
 from Bio.Seq import Seq
 from Bio import SeqIO
