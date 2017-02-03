@@ -1,5 +1,6 @@
 #!/usr/bin/python
-# Usage: python change_fasta_id.py <path to directory individuals>
+#Usage: python change_fasta_id.py <path to directory individuals>
+#lmc297@cornell.edu
 
 from Bio.Seq import Seq
 from Bio import SeqIO
