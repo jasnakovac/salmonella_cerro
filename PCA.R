@@ -1,6 +1,6 @@
 #PCA analysis
 #Input is a .csv numeric genotype file (gene presence/absence)
-#jk2739
+#jk2739@cornell.edu
 
 library(ggplot2)
 library(cluster)
