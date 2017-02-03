@@ -1,4 +1,5 @@
 #RASTtk annotation spreadsheet and gbk files export
+#jk2739@cornell.edu
 
 #Open RASTtk app
 #Login from the command line
