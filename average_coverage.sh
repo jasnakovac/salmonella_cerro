@@ -1,6 +1,7 @@
 #!/bin/bash
 # Usage: sh average_coverage.sh <path to input files>
 #lmc297@cornell.edu
+#ms984@cornell.edu
 
 cd $1
 for f in *_contigs.fasta
