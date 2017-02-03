@@ -1,6 +1,6 @@
 #!/bin/bash
 #Usage: sh fastqc.sh <path to input files> <output directory>
-#lmc297@cornell.edu
+#ms984@cornell.edu
 
 cd $1
 for file in *.fastq.gz
