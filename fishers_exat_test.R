@@ -1,3 +1,5 @@
+#lmc297@cornell.edu
+
 # load data
 odata <- read.delim(file = "cerro_genematrix.txt",header = TRUE, sep = "\t")
 
