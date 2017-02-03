@@ -1,5 +1,6 @@
 #!/usr/bin/python
-# Usage: python iCreator.py
+#Usage: python iCreator.py
+#lmc297@cornell.edu
 
 import os,re
 
