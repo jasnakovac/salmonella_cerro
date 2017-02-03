@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: sh quast.sh <path to input files>
+#Usage: sh quast.sh <path to input files>
+#jk2739@cornell.edu
 
 cd $1
 
