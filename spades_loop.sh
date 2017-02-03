@@ -1,5 +1,6 @@
 #!/bin/bash
-# Usage: sh spades_loop.sh <path to input files>
+#Usage: sh spades_loop.sh <path to input files>
+#lmc297@cornell.edu
 
 cd $1
 
