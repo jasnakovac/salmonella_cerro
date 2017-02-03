@@ -1,4 +1,5 @@
 #!/bin/bash
+#lmc297@cornell.edu
 
 cd $1
 
