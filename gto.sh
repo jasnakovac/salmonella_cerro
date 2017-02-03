@@ -1,4 +1,5 @@
 #RASTtk batch genome annotation
+#jk2739@cornell.edu
 
 #Open RASTtk app
 #Login from the command line
