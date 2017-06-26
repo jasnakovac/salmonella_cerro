@@ -1,6 +1,7 @@
 #!/bin/bash
 #Usage: sh vcf_consensus_loop.sh <path to input files> <reference.fasta>
 #lmc297@cornell.edu
+# $2 is a reference genome
 
 cd $1
 
