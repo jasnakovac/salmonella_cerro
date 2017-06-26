@@ -23,4 +23,3 @@ for f in path:
         print >> finalseq, '>'+newseqid
         print >>finalseq, newseqseq
         finalseq.close()
-print "You thought you was dabes.  Minus now."
