@@ -22,4 +22,3 @@ for f in path:
         print >> finalseq, '>'+tag
         print >>finalseq, newseqseq
         finalseq.close()
-print "Sequences created!  Squad goin' up!"
